@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/glad.c.o -o main   -L/home/grant/CPP_Projects/Atom-Simulation/dependencies/lib  -Wl,-rpath,/home/grant/CPP_Projects/Atom-Simulation/dependencies/lib -lglfw -lGL 
