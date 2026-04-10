@@ -64,7 +64,7 @@ while(!glfwWindowShouldClose(window))
 
     glBindBuffer(GL_ARRAY_BUFFER, VBO); // binding the vertices to a buffer
 
-    glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW); // This copies the currently bound zertex data to the buffer's memory
+    glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW); // This copies the currently bound vertex data to the buffer's memory
 
     
 
